@@ -92,11 +92,12 @@
 <br/>
 
 <div align="center">
-  <h3>🚀 Projetos em Destaque</h3>
+  <h3>🚀 Projeto em Destaque</h3>
   
-  <p style="font-size: 18px;">
-    📌 <strong>Em breve...</strong> — Primeiros projetos serão listados aqui
-  </p>
+  <a href="https://github.com/Gabriel170206/EDA-Permanencia_Evasao_Escolar" style="font-size: 18px;">
+    📌 <strong>SIMPE</strong> — Sistema Inteligente de Monitoramento da Permanência Escolar
+  </a>
+  
 </div>
 
 <br/>
