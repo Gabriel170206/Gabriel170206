@@ -1,11 +1,11 @@
 <div align="center">
   <h1>👋 Olá! Eu sou Gabriel Rodrigues</h1>
+  <img src="https://github.com/Gabriel170206.png" width="160px" style="border-radius: 50%; border: 3px solid #3B82F6;"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/gabrielrodrigues.png" width="160px" style="border-radius: 50%; border: 3px solid #3B82F6;"/>
   
   <p style="font-size: 20px; color: #a0aec0;">
     💻 Desenvolvedor em formação | Full Stack com foco em Back-end
@@ -96,6 +96,10 @@
   
   <a href="https://github.com/Gabriel170206/EDA-Permanencia_Evasao_Escolar" style="font-size: 18px;">
     📌 <strong>SIMPE</strong> — Sistema Inteligente de Monitoramento da Permanência Escolar
+  </a>
+  <br/>
+  <a href="https://github.com/Gabriel170206/facilita-linguagens" style="font-size: 18px;">
+    📌 <strong>facilita-linguagens</strong>
   </a>
   
 </div>
