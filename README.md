@@ -1,4 +1,4 @@
-```
+
 <div align="center">
 
 # Gabriel Rodrigues Alves Miranda
@@ -84,4 +84,3 @@ Sou extremamente entusiasmado e sempre em busca do meu desenvolvimento para colo
 Procuro uma área na **Administração** como área profissionalizante, com o objetivo de ganhar experiência e me tornar um profissional mais qualificado para enfrentar desafios diários e de grande impacto na sabedoria. Estou aberto a oportunidades tanto na área da **Informática** (em tecnologia de hardware e desenvolvimento web) quanto na área da **Administração** (focado em gestão de pessoas).
 
 </div>
-```
